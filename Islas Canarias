@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canarias</title>
+    <style>
+        /* Estilos CSS */
+        body {
+            font-family: "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        nav {
+            background: #666;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        
+        section {
+            padding: 20px;
+        }
+        
+        footer {
+            background: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        header {
+            background-image: url('https://lh3.googleusercontent.com/pw/AJFCJaVWfGiEWwxfZS1nKBcwKO3e1RhuTFYQRlYi_-zThJmve2Gus4gpD4Ksnf2WEh08ifQrpQapmgwlVReIbcjtUHr97a_KFoKUVA47Z171c9YoSsZL8KsHgq4g7zYXaJxxO7e-xLQap0aw17TU7Ek_66-B8zOX4ywm5GH9DFKB0V_yDXp2gVSlnFIXSKQZPdunX3CYDOvJHq4RS7oekcOg5AHelrb3IBRYqAizQ6Vcq2-Um0dMoBNaOkJxTuq2MgUHo6MG2yOK-Pf8qk4B4-b0ZRQGanOlyMZwcOeNYOMhI-WJ4DdTSbULFJsqMxatgP0k7D2mcEb87uwGs_sydB_amRki_QbY5_3ymsGZdA7bi45AMkfrRy71wSENfD0GcGPv_5Cg6tUDWeqW3qmFPU7v5hm1hwTsd_MjjgEdaDgM781s499cNqT2cNtq1NP1_ZFfvzf4CFFwJZVzf-Elw_CG4fIOGzPWoZzFVE8-UvGCUJiyWIdEALbHs3HCVByFP4aVTOBT0mQFnEqDlIGn2VZBbZAyhI3GRFR-w3_aWoeWKmVqhA5HzeuHF6Dk3ig-4dtLQdOrRTvTcG9hNJ-TY0IFdU2L4WFkrVPQU5sG17B0PaE94InG8cGqjYv81nTe76SYaApmO_dfHDtzaB9TADB5gZdMSDSB2Tw9qncuul0LuePzGSUkrQu5Kk6s7y04SuwOecCl3IRc4b3djnTuHe2Ozatou3aK8zZd2cyOFhsRqkEvykOsEdzr1dvS_57iXqbriua5eWIYg6Lse38Evo5irRon8jcw8URpppOZbQ_QlRMtYi3fHzR4yaJNljCFmbzzi2C7hgbJMtrO6WHc4VdKkohQ5oofYKKrhumxStuVQi2wKY1iWCxju9IXT2G7oJn4fn3ejw-iuYwd6XizpgDG0FfENNTFdSlGTgeLunrRDmRZPMvHpfGc3KClPvbi8lKmh__a4DvzjEYVCOpz4LvvQTMh8wFQMy8uLSI=w1111-h625-s-no?authuser=0');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 500px; /* Ajusta la altura según tus necesidades */
+            position: relative;
+        }
+
+        .header-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: rgba(0, 0, 0, 0.5); /* Cambia el valor de opacidad según tus preferencias */
+        }
+
+        .header-overlay h1 {
+            color: #fff;
+            font-size: 48px;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        h2 {
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-overlay">
+            <h1>Islas Canarias</h1>
+        </div>
+    </header>
+    
+    <nav>
+        <a href="#creacion">Creación de las islas</a>
+        <a href="#relieve">Formas de relieve</a>
+        <a href="#clima">Clima</a>
+        <a href="#agua">Ciclo del agua</a>
+        <a href="#biodiversidad">Biodiversidad</a>
+        <a href="#sostenibilidad">Uso sostenible de los recursos</a>
+    </nav>
+    
+    <section id="creacion">
+        <h2>Creación de las islas</h2>
+        <p>
+            Las Islas Canarias son de origen volcánico y se formaron a lo largo de millones de años debido a la actividad volcánica en la región. La formación de las islas comenzó hace aproximadamente 20 millones de años, cuando erupciones volcánicas submarinas dieron lugar a la aparición de las primeras islas.
+        </p>
+        <p>
+            El archipiélago canario está ubicado en un punto caliente, donde una columna de magma asciende desde el manto terrestre hacia la superficie. A medida que la placa tectónica se desplaza sobre el punto caliente, se forman sucesivas erupciones volcánicas, lo que ha contribuido a la formación y expansión de las islas a lo largo del tiempo
+
+    </p>
+    <p>
+        Las erupciones volcánicas en las Islas Canarias han dado lugar a la creación de montañas, valles y paisajes espectaculares. Cada isla tiene su propio volcán principal, como el Teide en Tenerife, que es el pico más alto de España. La actividad volcánica también ha contribuido a la existencia de cuevas y tubos de lava, que son una atracción turística popular en la región.
+    </p>
+</section>
+
+    
+<section id="relieve">
+    <h2>Formas de relieve</h2>
+    <div class="content">
+        <div class="text">
+            <p>
+                Las Islas Canarias, de origen volcánico, ofrecen paisajes impresionantes y una diversidad geológica fascinante. Desde imponentes montañas hasta impresionantes acantilados y cuevas volcánicas, estas islas son un verdadero paraíso para los amantes de la naturaleza.
+            </p>
+            <p>
+                Explora sus majestuosos picos volcánicos, como el icónico Teide en Tenerife, el cual se alza como el pico más alto de España. Admira las formaciones rocosas únicas y relájate en las playas de arena negra creadas por las erupciones volcánicas.
+            </p>
+        </div>
+        <div class="image">
+            <img src="https://lh3.googleusercontent.com/pw/AJFCJaX8-YaKf2Sz8H8sFkzdiaBVPnOXdsSDDZlzwtajALh_tZCoVPN5HVXmOFzJDkUTH0_GKM8LHVXOHMMIT_QdQRkUufFGTn1eMafHBeGh6lXWcC4uqAc3bYFHHW922xyhhn8HSqhaCdabETtAnX7kuz1wBK_DJefwenXbWAH2lRLQWjM0HXYmrb6OBo7fSWSICvS61WjaqH7UZ0K8Fr0pL54MaQsblGMOqx-ONeWJWkBOWi3ndouM3YZOCqy0wj-Y8KlfQP9kE67zx4Y0QPYLnRcWkdYADygkcd9FEpNrjBAJQPDHw54rCXgqqw_cALW3kJNPZDdLUy5k2oNMWb-ezCuyqoMHH6PZxMsASjTYUkyJ5bXhz2Z25_XLh9YSa73GMRZOHt--6FUTEl4H7GC-ij6JaKzD85Vo3t7HCA7BS5yS9-ICN8BTywFIfUDhXddpBchVERQiFG2xJGxIcCuj9VGOOCwPOIdwvyEK_jUlYhaTW5vNm_OzoQGjYsWKfWOHm3VUz1KmtrJhP16OOJqtoBRBrN5wS0JY4LlPyuwrrbReD7G9_dnnGQbNZVpQDScNd3gAOfDp3wa4VCN_03Zd0PteQnFan7zGYXlSbpnMereovmtIZztuKyI1ZKKylJ4VV4FpWCu-D94MYQ1KKnM5VSXzOkfD05hJlSuGfwiNuKxt7CDR8sAFYJrZCw21jkkhrUegr2qutM0YKwKcC2YEPZhA-Q4EnndYkRgmXgKS21rLR8GBHVHiytNbfNJ9QBFwmP44ZksPJ1NzgHUCdMaBJF8UXUf4B36OIETztwh4J_VRcCNQpKT0BxpxT_DjAgh7sC-aKJSYaVo4BLnMT19qlaLZZaXjPdx08pH0DAt9jNvvndQAr9GWHA6bzkdd-yP-g-utTsTZTKlrKHLxKct_M-PVGtl9J_KJzJk_Z6OJv5uN2cN-iORa6xffIjR0fOgYkVPuDMUeKwMozw-VDO1rqZEsfFR2KwlUDQ0=w500-h332-s-no?authuser=0" alt="Formas de relieve">
+        </div>
+    </div>
+</section>
+<style>
+    .content {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .text {
+        flex: 1;
+        padding-right: 20px;
+    }
+
+    .image {
+        flex: 1;
+        text-align: right;
+    }
+</style>
+    
+
+       <section id="clima">
+    <h2>Clima</h2>
+    <div class="content">
+        <div class="text">
+            <p>
+                Las Islas Canarias disfrutan de un clima privilegiado, conocido como "eterno primavera". Con su ubicación subtropical en medio del océano Atlántico, el archipiélago goza de temperaturas suaves y agradables durante todo el año.
+            </p>
+            <p>
+                La influencia de los vientos alisios y las corrientes oceánicas mantiene las temperaturas moderadas y estables. En las zonas costeras, las temperaturas rara vez superan los 30 grados Celsius en verano, mientras que en invierno se mantienen en un agradable promedio de 20 grados Celsius.
+            </p>
+            <p>
+                Además, el clima en las Islas Canarias ofrece una notable diversidad microclimática. Cada isla tiene sus propias características climáticas debido a las diferentes altitudes y orientaciones geográficas. Desde playas soleadas hasta frondosos bosques y paisajes desérticos, las Islas Canarias ofrecen una variedad de microclimas para explorar y disfrutar.
+            </p>
+        </div>
+    </div>
+</section>
+
+    
+       
+    <section id="agua">
+    <h2>Ciclo del agua</h2>
+    <div class="content">
+        <div class="text">
+            <p>
+                El ciclo del agua en las Islas Canarias es un proceso fundamental para mantener el equilibrio de los ecosistemas y garantizar el suministro de agua dulce en la región.
+            </p>
+            <p>
+                El ciclo comienza con la evaporación del agua de los océanos y mares circundantes. El calor del sol convierte el agua líquida en vapor, que se eleva a la atmósfera. Este vapor se condensa en las nubes y forma gotas de agua que luego caen como precipitación en forma de lluvia o nieve.
+            </p>
+            <p>
+                En las Islas Canarias, la vegetación y la diversidad de paisajes desempeñan un papel crucial en la captación y almacenamiento del agua. Los bosques y las áreas montañosas actúan como esponjas naturales, absorbiendo el agua de la lluvia y liberándola gradualmente hacia los acuíferos subterráneos.
+            </p>
+            <p>
+                Es importante destacar la necesidad de proteger y conservar este recurso vital. En las Islas Canarias, se promueve la concienciación sobre el uso responsable del agua, así como la implementación de medidas para evitar la contaminación de los acuíferos y garantizar la disponibilidad de agua limpia y segura.
+            </p>
+        </div>
+        <div class="image" style="float: left; margin-right: 100px;">
+            <img src="https://lh3.googleusercontent.com/pw/AJFCJaVl2o2OdShVdez_yWnjcic7Uhf_jQ2TY1xwJ9l8HI6SCcdh4LbWhI9f1tuZpj6_cEQ9ZZl9sRbqBfw3wyZp0SxBJlpW3JufDzYqgSqELJafG1b2ln1sZOSIjMX3NfsqvlBFysA2QUmyjvbhxG2nl6cXPhUansvU_IOe0IRZILQaamKRPE9tdN34ekYk4l8YGIhp7A2RfoACDrzvNLiLgNRgR9JqBoSdfRqdHPMqiaR1rtFeEbELWpK_4dSDv1Zce98b9lhyOMzko6S2ABxB1vrx6ztUyMB85reHyMYId1RRvlaGd6ndFnpl4v7Hi3y_x_gSCq06fKY-UXWl3uEc-N5qAoKHFoyw4b839niHJUGeU9znxACBtml2nNK2k-Gbb_YVpZXHp-UA60rXdK8f-msLy66SnlqJ-mmVUK9z-GN86hr8YKydc1iYFo27KiewEuyRsqDPn818uzFXWxUsvl7Gmim5DIfnAxlVBnyDUqFHuXpwKBMCKolG1NzkAVVBJ-sJlXGTtU-ye5vGXnw9MaeWaEOvoIAPIB-UPcV6heoVj2yRbXEHB-MLG3r5bCZjk7Rj2zQq8x8P3ne0Rh2mpBcmFe_wSUv5xoIBMiTaNXk16ebmQQffZw8EAPXf6gQJWxJj1KSHI5s8toMJB6C28ff8Dqo0BJv8zxUOTnnOUOBal3wQMt8-kssxUSddC3onwCF6pOqxrmY5vXl0AKnhee1JSnQil1if2dDjkW94KeOvLUvgaxsPtY2Qcg_RgodUTpBXPiMGl7CYi-0x9Qt0N9p10D66vhW_gPEoHOjJe-8R1sXkOwd2KKC7HGwBGf9RzXUb2DvBV98L00AtYC65WWLwAH6tg-O-Sxlu8UnX422h47A_X1pCjKQlq7HUdWLipTOSikCr29QiBMj9eo38_DGnJUef2odxldepcbTWkeA297p8-qysLlW4gU8nI_tjCxwJkNFbSY2XA_EMC_34DvYkp4Ul49kP90w=w833-h625-s-no?authuser=0" alt="Ciclo del agua" width="400">
+        </div>
+    </div>
+</section>
+
+    
+       <section id="biodiversidad">
+    <h2>Biodiversidad</h2>
+    <div class="content">
+        <div class="text">
+            <p>
+                Las Islas Canarias albergan una biodiversidad excepcional, tanto en su entorno marino como terrestre. Estas islas son el hogar de una gran variedad de especies endémicas, es decir, aquellas que solo se encuentran en esta región.
+            </p>
+            <p>
+                En el medio marino, las aguas cristalinas y los fondos submarinos de las Islas Canarias albergan una gran diversidad de especies marinas. Los arrecifes de coral, las praderas de algas y las cuevas submarinas son algunos de los hábitats importantes para la biodiversidad marina.
+            </p>
+            <p>
+                Sin embargo, la biodiversidad en las Islas Canarias enfrenta desafíos significativos. La sobreexplotación pesquera, la contaminación del agua, la destrucción del hábitat y la introducción de especies invasoras son algunos de los problemas que amenazan a las especies y ecosistemas en la región.
+            </p>
+            <p>
+                Para proteger y preservar la biodiversidad en las Islas Canarias, se han implementado diversas medidas. Estas incluyen la creación de reservas marinas, la promoción de prácticas pesqueras sostenibles, la educación ambiental y la concienciación sobre la importancia de conservar los ecosistemas naturales.
+            </p>
+        </div>
+    </div>
+</section>
+
+    
+        <section id="sostenibilidad">
+    <h2>Uso sostenible de los recursos</h2>
+    <div class="content">
+        <div class="text">
+            <p>
+                El uso sostenible de los recursos en las Islas Canarias es fundamental para garantizar la preservación de su entorno natural y la calidad de vida de sus habitantes. El archipiélago canario cuenta con una gran diversidad de recursos naturales, como el agua, la tierra fértil, la energía renovable y los recursos marinos.
+            </p>
+            <p>
+                Es necesario gestionar estos recursos de manera sostenible, evitando su sobreexplotación y asegurando su disponibilidad para las generaciones futuras. El turismo, por ejemplo, es una actividad económica clave en Canarias, pero debe desarrollarse de manera sostenible, minimizando su impacto ambiental y cultural.
+            </p>
+            <p>
+                El ser humano tiene una influencia significativa en el entorno de las Islas Canarias. Las actividades humanas, como la urbanización, la agricultura intensiva y la pesca irresponsable, pueden causar daños irreversibles en los ecosistemas locales. Por tanto, es crucial promover prácticas y políticas que fomenten el respeto por la naturaleza y la conservación de los recursos.
+            </p>
+            <p>
+                El uso eficiente de la energía, la promoción de energías renovables, la gestión adecuada del agua, la protección de los espacios naturales y la educación ambiental son algunas de las medidas necesarias para garantizar un desarrollo sostenible en las Islas Canarias.
+            </p>
+        </div>
+    </div>
+</section>
+
+    
+    <footer>
+        <p>Derechos de autor &copy; 2023 - Canarias</p>
+    </footer>
+</body>
+</html>
+
